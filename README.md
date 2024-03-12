@@ -22,7 +22,7 @@ Our project leverages modern web development practices and technologies to provi
 
 ## Requirements
 
-To run the application, you only need a web browser. You can start by opening any of the HTML files included in the project or visit [project link] to access the live version.
+To run the application, you only need a web browser. You can start by opening any of the HTML files included in the project or visit https://job-finder1.netlify.app/ to access the live version.
 
 ## How to Run
 
@@ -33,11 +33,11 @@ To run the application, you only need a web browser. You can start by opening an
 
 ## Contributors
 
-- **Alice Smith** - [GitHub](https://github.com/alicesmith)
-- **Bob Jones** - [GitHub](https://github.com/bobjones)
-- **Charlie Davis** - [GitHub](https://github.com/charliedavis)
-- **Dana White** - [GitHub](https://github.com/danawhite)
+- [Florian Saqipi](https://github.com/floriansaqipi/)
+- [Fjolla Ajeti](https://github.com/fjolla-ajeti)
+- [Erza Merovci](https://github.com/erzamerovci)
+- [Erza Bërbatovci](https://github.com/erza-b)
 
 ## Acknowledgments
 
-We want to extend our heartfelt gratitude to our course instructor and teaching assistants for their invaluable guidance and support throughout this project. Special thanks also go to our peers for their insights and feedback. This project would not have been possible without the collaborative effort of every team member, each contributing their unique skills and knowledge.
+We want to extend our heartfelt gratitude to our course instructor and teaching assistants for their invaluable guidance and support throughout this project.
